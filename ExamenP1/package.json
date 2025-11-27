@@ -23,7 +23,8 @@
     "brace-expansion": "^4.0.1",
     "cross-spawn": "^7.0.6",
     "dotenv": "^16.4.7",
-    "env-var": "^7.5.0"
+    "env-var": "^7.5.0",
+    "glob": "^13.0.0"
   },
   "type": "commonjs"
 }
